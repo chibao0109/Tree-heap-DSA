@@ -72,7 +72,8 @@ Browse the folders and files in the repository to explore the available implemen
 
 ## 👨‍💻 Author
 
-**GitHub:** [chibao-teatv](https://github.com/chibao-teatv)
+**GitHub:** [chibao0109](https://github.com/chibao0109)
+[phatchill](https://github.com/chibao0109)
 
 ---
 
